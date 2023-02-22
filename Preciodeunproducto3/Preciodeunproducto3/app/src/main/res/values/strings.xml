@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Preciodeunproducto</string>
+    <string name="ingresa_el_precio">Ingresa el precio</string>
+    <string name="calcular_precio_final_con_iva">Calcular precio final con IVA</string>
+</resources>
